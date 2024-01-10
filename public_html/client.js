@@ -1,4 +1,4 @@
-var socket = io.connect('http://localhost:5000');
+var socket = io.connect('https://one-time-chat-ip7z.onrender.com');
 
 var username = document.getElementById('username');
 var Message = document.getElementById('Message');
